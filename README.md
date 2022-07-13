@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @siajin
+- 👀 I’m interested in Full-Stack Engineer / Data-Scientist
+- 🌱 I’m currently learning Node.js / React.js / React Native
+- 📫 How to reach me siajin12@gmail.com
