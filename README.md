@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=siajin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=who%20just%20like%20cording&descAlignY=52&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=siajin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=who%20just%20like%20coding&descAlignY=52&descAlign=65)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
