@@ -16,8 +16,10 @@
 
 <br><br><br>
 
-<!-- <h3 align="center">✒️Studying Stack✒️</h3> -->
+<h3 align="center">✒️Studying Stack✒️</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
 
 <br><br><br>
 
