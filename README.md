@@ -3,22 +3,20 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=React&logoColor=black&label="/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next-010101?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=graphql&color=E10098&logo=GraphQl&logoColor=white&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
 </p>
 
 <br><br><br>
 
 <h3 align="center">✒️Studying Stack✒️</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
 </p>
-
-<br><br><br>
-
-| <a href="https://github.com/siajin/siajin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=siajin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/siajin/siajin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siajin&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <br><br><br>
      
